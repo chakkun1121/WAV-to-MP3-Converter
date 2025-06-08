@@ -1,0 +1,6 @@
+{
+  "name": "WAV to MP3 Converter (Local)",
+  "description": "A web application to convert WAV audio files to MP3 format locally in your browser using lamejs. Supports 8-bit and 16-bit WAV files.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
